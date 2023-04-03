@@ -1,6 +1,6 @@
 ## Tampilan CRUD
 
-<p align="center"><a href="" target=""><img src="https://github.com/Nanang212/CRUD-Monitoring/blob/main/public/img/SS_Tampilan.png" width="100%" alt="Tampilan CRUD">CRUD MOnitoring</a></p>
+<p align="center"><a href="" target=""><img src="https://github.com/Nanang212/CRUD-Monitoring/blob/main/public/img/SS_Tampilan.png" width="100%" alt="Tampilan CRUD"></a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
